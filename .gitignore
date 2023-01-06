@@ -1,7 +1,5 @@
-# Editor files
-##############
-.vscode/
-
-# OS files
-##########
+# System files
 .DS_Store
+
+# Editor files
+.vscode/
