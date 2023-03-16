@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/activist-org/activist-Android"><img src="https://raw.githubusercontent.com/activist-org/Organization/main/logo/activistGitHubOrgBanner.png" width=1024 alt="activist Logo"></a>
+  <a href="https://github.com/activist-org/activist-Android"><img src="https://raw.githubusercontent.com/activist-org/Organization/main/logos/activistGitHubOrgBanner.png" width=1024 alt="activist Logo"></a>
 </div>
 
 [![platforms](https://img.shields.io/badge/Android-32DE84.svg?logo=android&logoColor=ffffff)](https://github.com/activist-org/activist-Android)
